@@ -5,6 +5,8 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
+markdown: rdiscount
+permalink: /:year/:month/:day/:title.html
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -84,11 +86,8 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
+      short_name : commintern
+   
     facebook :
       appid : 123
       num_posts: 5
