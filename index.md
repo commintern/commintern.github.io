@@ -1,46 +1,38 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Sun Dayu
+tagline: “此心光明，亦复何言。"
 ---
 {% include JB/setup %}
+I am a first-year [Mphil][] student in [Department of Applied
+Mathematics][] , [The Hong Kong Polytechnic University][], under the
+supervision of [Dr. Zhao Xingqiu][]and [Dr. Ye Zhisheng][]. My research
+interest is applied statistics. I would like to purse Ph.D. in the
+future.
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+I am widely interested in philosophy, computing science, social sciences
+besides mathematics. <span style="color:white">Marxism,
+</span>Neo-confucianism and Taoism have significant impact on me.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Currently, I am learning advanced math and statistics as well as
+programming languages. I also decided to pick up badminton.
 
-## Update Author Attributes
+  [Mphil]: http://en.wikipedia.org/wiki/Master_of_Philosophy
+  [Department of Applied Mathematics]: http://www.polyu.edu.hk/~ama/index.php
+  [The Hong Kong Polytechnic University]: http://www.polyu.edu.hk/cpa/polyu/index.php
+  [Dr. Zhao Xingqiu]: http://www.polyu.edu.hk/ama/staff/new/ZhaoXQ.htm
+  [Dr. Ye Zhisheng]: http://www.yezhisheng.com
 
-In `_config.yml` remember to specify your own data:
     
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+>Everything that has a beginning, has an end.
+ 
+>一切有始有终。
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
+<!--<ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
-</ul>
+</ul>-->
 
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
