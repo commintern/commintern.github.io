@@ -5,7 +5,10 @@ description: 论观点的非理性本质
 categories: 
 - 议论文
 - 存档
+<<<<<<< HEAD
 - cn
+=======
+>>>>>>> 374c66c3aedec4f05dce13964dee0a659bb1ac5e
 tags: 哲学, 理性
 ---
 {% include JB/setup %}

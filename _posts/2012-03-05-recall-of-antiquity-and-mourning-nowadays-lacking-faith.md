@@ -4,7 +4,10 @@ title: 怀古伤今和信仰缺失
 categories: 
 - 杂文
 - 存档
+<<<<<<< HEAD
 - cn
+=======
+>>>>>>> 374c66c3aedec4f05dce13964dee0a659bb1ac5e
 tags: 哲学, 时事
 ---
 {% include JB/setup %}
