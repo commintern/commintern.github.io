@@ -6,8 +6,10 @@ group: navigation
 ---
 {% include JB/setup %}
 
-Download the full version from [here](http://sdrv.ms/142YsZJ)
+Download the full version from [here](http://sdrv.ms/142YsZJ).
 
+
+----------
 
 
 #EDUCATION
