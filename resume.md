@@ -5,6 +5,9 @@ header: Resume
 group: navigation
 ---
 {% include JB/setup %}
+
+Please down the full version from [here](http://sdrv.ms/142YsZJ)
+
 #EDUCATION
 * **Master of Philosophy**, in Applied Statistics *2013- present*
 
@@ -30,7 +33,7 @@ group: navigation
 * **Buddy Manger** of Non-local Oweek in HKPU *05/2011-09/2011*
 * **Information Sectary** of Chinese Mainland Students' Association(CMSA) *04/2010-04/2011*  
     Awarded as **Honorable Member** for great contribution
-* **Subcommittee Member** of Chinese Mainland Students' Association Oct. 2009-Apr. 2011
+* **Subcommittee Member** of Chinese Mainland Students' Association *10/2009-04/2011*
    
 # OTHER SKILLS #
 Language skills: English(Fluent), Cantonese(Fair), Mandarin(Native)
