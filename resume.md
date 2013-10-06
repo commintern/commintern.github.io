@@ -6,7 +6,9 @@ group: navigation
 ---
 {% include JB/setup %}
 
-Please down the full version from [here](http://sdrv.ms/142YsZJ)
+Download the full version from [here](http://sdrv.ms/142YsZJ)
+
+
 
 #EDUCATION
 * **Master of Philosophy**, in Applied Statistics *2013- present*
@@ -28,7 +30,7 @@ Please down the full version from [here](http://sdrv.ms/142YsZJ)
 
 
 # EXTRA-CURRICULAR  ACTIVITIES
-* **Peer Tutor** in residence at the Homantin Hall *10/2012-5/013*
+* **Peer Tutor** in residence at the Homantin Hall *10/2012-05/2013*
 * '**Zuba**'(Helper) of Non-local Orientation Week *08/2012-09/2012*
 * **Buddy Manger** of Non-local Oweek in HKPU *05/2011-09/2011*
 * **Information Sectary** of Chinese Mainland Students' Association(CMSA) *04/2010-04/2011*  
