@@ -6,8 +6,8 @@ tagline: “此心光明，亦复何言。"
 {% include JB/setup %}
 I am a first-year [Mphil][] student in [Department of Applied
 Mathematics][] , [The Hong Kong Polytechnic University][], under the
-supervision of [Dr. Zhao Xingqiu][]and [Dr. Ye Zhisheng][]. My research
-interest is applied statistics. I would like to purse Ph.D. in the
+supervision of [Dr. Zhao Xingqiu][] and [Dr. Ye Zhisheng][]. My research
+interest is applied statistics. I would like to pursue Ph.D. in the
 future.
 
 I am widely interested in philosophy, computing science, social sciences
