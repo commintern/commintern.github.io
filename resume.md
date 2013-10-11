@@ -18,7 +18,8 @@ Download the full version from [here](http://sdrv.ms/142YsZJ).
 
 * **Bachelor of Science**, in Investment Science (First Class Honour),  *2009-2013*  
      Department of Applied Mathematics,  
-     The Hong Kong Polytechnic University 
+     The Hong Kong Polytechnic University
+
 #AWARDS and HONOURS
 * **Dean's Honored List**, Outstanding academic performance (top 5%) *2011/2012*
 * **The Hong Kong Polytechnic University Scholarship** *2011/2012,
