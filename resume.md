@@ -37,7 +37,7 @@ Download the full version from [here](http://sdrv.ms/142YsZJ).
 * '**Zuba**'(Helper) of Non-local Orientation Week *08/2012-09/2012*
 * **Buddy Manger** of Non-local Oweek in HKPU *05/2011-09/2011*
 * **Information Sectary** of Chinese Mainland Students' Association(CMSA) *04/2010-04/2011*  
-    Awarded as **Honorable Member** for great contribution
+    Awarded as a **Honorable Member** for great contribution
 * **Subcommittee Member** of Chinese Mainland Students' Association *10/2009-04/2011*
    
 # OTHER SKILLS #
