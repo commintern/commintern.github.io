@@ -5,7 +5,7 @@ description: HKUST数学系老师的趣闻
 categories: 
 - 杂文
 - cn
-tags: 日记, 学习
+tags: 日记 学习
 ---
 {% include JB/setup %}
 
