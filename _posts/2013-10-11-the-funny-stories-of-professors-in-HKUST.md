@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HKUST数学系老师的趣闻
-description:HKUST数学系老师的趣闻
+description: HKUST数学系老师的趣闻
 categories: 
 - 杂文
 - cn
