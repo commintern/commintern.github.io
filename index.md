@@ -20,7 +20,7 @@ programming languages. I also decided to pick up badminton.
   [Department of Applied Mathematics]: http://www.polyu.edu.hk/~ama/index.php
   [The Hong Kong Polytechnic University]: http://www.polyu.edu.hk/cpa/polyu/index.php
   [Dr. Zhao Xingqiu]: http://www.polyu.edu.hk/ama/staff/new/ZhaoXQ.htm
-  [Dr. Ye Zhisheng]: http://www.yezhisheng.com
+  [Dr. Ye Zhisheng]: http://myweb.polyu.edu.hk/~zhishye/
 
     
 >Everything that has a beginning, has an end.
