@@ -38,10 +38,10 @@ a { text-decoration: none; color: #393; }
 a:hover { 
     text-decoration: underline; 
 	color: #53c670; 
-	-o-transition: color .80s ease-out;
-    -webkit-transition: color .80s ease-out;
-    -moz-transition: color .80s ease-out;
-    transition:  color .80s ease-out;}
+	-o-transition: color .40s ease-out;
+    -webkit-transition: color .40s ease-out;
+    -moz-transition: color .40s ease-out;
+    transition:  color .40s ease-out;}
 a.pdf:before { 
 	margin-right: 1em;
 	content: url(/files/css/icon_pdf.gif); }
