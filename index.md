@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sun Dayu ( 孙达宇 孫達宇 )
-tagline: “此心光明，亦复何言。"
 ---
 {% include JB/setup %}
 I am a first-year [Mphil][] student in [Department of Applied
