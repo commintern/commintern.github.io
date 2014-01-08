@@ -24,10 +24,10 @@ Online Resources
 
 * [Wiki page](http://en.wikipedia.org/wiki/TeX "Wiki page")
  
-## LaTeX
-LaTeX is a typesetting system based on TeX. It is easier to use and widely use in academia.
+## \\( \LaTeX \\)
+\\( \LaTeX \\) is a typesetting system based on \\( \TeX \\). It is easier to use and widely use in academia.
 
-The philosophy of LaTeX is  
+The philosophy of \\( \LaTeX \\) is  
 
 > authors should be able to focus on the content of what they are writing without being distracted by its visual presentation
 
