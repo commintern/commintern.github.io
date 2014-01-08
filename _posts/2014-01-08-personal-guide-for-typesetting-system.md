@@ -2,7 +2,7 @@
 layout: post
 title: Personal Guide for Typesetting System
 description: Personal Guide for Typesetting System and something else
-category: 
+categories: 
 - article
 - en
 tags: Typsetting, TeX
@@ -14,13 +14,13 @@ This is a personal and self-guided article for softwares related scientific type
 Almost everyone (in China) in my age started to learn Microsoft Office Word as a document processor. WYSIWYG typesetting is just simple clicks. Of course, Word as well as other softwares in Officd is excellent. However, when I began to write scientific documents in university, it became a nightmare. Though Mathtype is good enough, it is hard to use sometimes and inefficient. Moreover, I becomed increasingly unstatisfied with typesetting provided by Word. I tried to learn so called "80% unkown functions". I found a (chinese) [book](http://book.douban.com/subject/1193565/) about automatic typesetting in word. The book introduces great solutions with VBA. Unfortunately, I was lazy at that time and though that I'd better spent time on learning LaTeX if I had to learn VBA. As a research student now, I spend little time on Word. I mainly writing something on other typesetting system.
 
  
-## $\TeX$
+## TeX
 $\Tex$ is a well-known and popular document markup language. The creation  of it almost becomes a legend in computing science history. However, few people really use it directlly now. I know little about it.
 
 Online Resources
 
 * [Wiki page](http://en.wikipedia.org/wiki/TeX "Wiki page")
-## $\LaTeX$
+## LaTeX
 $\LaTeX$ is a typesetting system based on $\TeX$. It is easier to use and widely use in academia.
 
 The philosophy of LaTeX is  
