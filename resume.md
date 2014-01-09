@@ -10,7 +10,6 @@ Download the full version from [here](http://sdrv.ms/142YsZJ).
 
 
 ----------
-</br>
 
 
 #EDUCATION
