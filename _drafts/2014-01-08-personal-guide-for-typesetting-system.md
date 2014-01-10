@@ -5,7 +5,7 @@ description: Personal Guide for Typesetting System and something else
 categories: 
 - article
 - en
-tags: Typsetting, TeX
+tags: Typsetting TeX
 ---
 
 This is a personal and self-guided article for softwares related scientific typesetting. It is not informative for everyone, perhaps, but I hope it is a worthy sharing.
@@ -83,13 +83,19 @@ Online resources
 * [Documentation](http://wiki.lyx.org/LyX/Documentation) Even though the users guides are embedded in LyX, you may want to download PDF files.
 
 # Presenation
+
 ## [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG)
+
 ## Beamer
+
 ## HTML5
+
 ### deck.js
+
 ### keydown
 
 # Misc
-# Knitr
+
+## Knitr
 
  
