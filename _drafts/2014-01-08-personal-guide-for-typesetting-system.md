@@ -21,7 +21,7 @@ Of course, Word as well as other softwares in Office is excellent without consid
 
 1. Previous version of Word does not support math equation. After 2010, the function is finally added. However, the cilck-style writing is slow and hard to maintain.
 
-2. [Mathtype](http://www.dessci.com/en/products/MathType/). One advantage is it supprots \\( \LaTex \\) syntax. However, it is hard to use sometimes and inefficient. If I try to copy one equation to another Word file or Powerpoint file, it becomes a picture. It means I can not fix mistakes any furthur.
+2. [Mathtype](http://www.dessci.com/en/products/MathType/). One advantage is it supprots \\( \LaTeX \\) syntax. However, it is hard to use sometimes and inefficient. If I try to copy one equation to another Word file or Powerpoint file, it becomes a picture. It means I can not fix mistakes any furthur.
 
 3. The functions of markup style typesetting actually are supported well by Word. But most of they are somehow hidden from users. I tried to learn so called "80% unkown functions". I found a (chinese) [book](http://book.douban.com/subject/1193565/) about automatic typesetting in word. The book introduces great solutions with VBA. Unfortunately, I was lazy at that time and though that I'd better spent that time on learning LaTeX if I had to learn VBA. 
 
@@ -81,6 +81,11 @@ Online resources
 * [Documentation](http://wiki.lyx.org/LyX/Documentation) Even though the users guides are embedded in LyX, you may want to download PDF files.
 
 # Presenation
+## [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG)
+## Beamer
+## HTML5
+### deck.js
+### keydown
 
 
  
