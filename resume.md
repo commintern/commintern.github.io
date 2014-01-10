@@ -12,6 +12,7 @@ Download the full version from [here](http://sdrv.ms/142YsZJ).
 ----------
 
 
+
 #EDUCATION
 * **Master of Philosophy**, in Applied Statistics *2013- present*
 
