@@ -10,7 +10,7 @@ tags: Typsetting, TeX
 
 This is a personal and self-guided article for softwares related scientific typesetting. It is not informative for everyone, perhaps, but I hope it is a worthy sharing.
 
-# Typesetting System
+#  Typesetting System #
 
 ## [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG)
 Almost everyone (in China) in my age started to learn Microsoft Office Word as a document processor. WYSIWYG typesetting is just simple clicks.  Next sections describe my personal experience with those softwares.
@@ -68,10 +68,12 @@ To use LaTex in Windows, users can choose distribution packages such as [TeXLive
 There are many cross-platform editors. One can referrs to this [wiki comparision page](http://en.wikipedia.org/wiki/Comparison_of_TeX_editors).
 
 
-###LyX
-#### What you see is what you want
+###What you see is what you want
 
 However, for people who are familar with Microsoft Office, the philosophy of those software may confuse them. Ultimately typesetting should be evaluated by its finaly visual apperaence. The markups languages can guarantee typesetting is tidy and beautiful but requires much time to learn. I am glad if 'What you see is what you want' (WYSIWYW) alternative is provided.
+
+##LyX
+
 
 I began to use LyX as suggestions in [Xie Yihui's blog](http://yihui.name). He highly recommended this sofware as a WYSIWYW tool for LaTeX. LaTeX guarantees quality of typesetting, on the other hand WYSIWYW makes mathematical writing straightforward and intuitive. Many short-cuts accelerate typing speed. Yet, Xie Yihui also warned one should not try LyX before knowing advanced knowledge in LaTex. But, anyway, it is WYSIWYW and free. What's more, GUI of LyX guides users to write math formulas without bothering to remerber all commands in LateX.
 
@@ -87,5 +89,7 @@ Online resources
 ### deck.js
 ### keydown
 
+# Misc
+# Knitr
 
  
