@@ -5,8 +5,8 @@ title: Sun Dayu ( 孙达宇 孫達宇 )
 {% include JB/setup %}
 I am a first-year [Mphil][] student in [Department of Applied
 Mathematics][] , [The Hong Kong Polytechnic University][], under the
-supervision of [Dr. Zhao Xingqiu][] and [Dr. Ye Zhisheng][]. My research
-interest is applied statistics. I am working on research in industry statistics field. I would like to pursue Ph.D. in the
+supervision of [Dr. Zhao Xingqiu][](HKPU) and [Dr. Ye Zhisheng][](NUS). My research
+interest is applied statistics. I am working on research in Accelerated Life Testing. I would like to pursue Ph.D. in the
 future.
 
 I am widely interested in philosophy, computing science, social sciences
@@ -20,7 +20,7 @@ programming languages. I also decided to pick up badminton.
   [Department of Applied Mathematics]: http://www.polyu.edu.hk/~ama/index.php
   [The Hong Kong Polytechnic University]: http://www.polyu.edu.hk/cpa/polyu/index.php
   [Dr. Zhao Xingqiu]: http://www.polyu.edu.hk/ama/staff/new/ZhaoXQ.htm
-  [Dr. Ye Zhisheng]: http://myweb.polyu.edu.hk/~zhishye/
+  [Dr. Ye Zhisheng]: http://scholar.google.com/citations?user=ob5EC3IAAAAJ&hl=en
 
     
 >Everything that has a beginning, has an end.
