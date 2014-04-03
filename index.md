@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Sun Dayu ( 孙达宇 孫達宇 )
+published: true
 ---
+
 {% include JB/setup %}
 I am a first-year [Mphil][] student in [Department of Applied
 Mathematics][] , [The Hong Kong Polytechnic University][], under the
-supervision of [Dr. Zhao Xingqiu][](HKPU) and [Dr. Ye Zhisheng][](NUS). My research
+supervision of [Dr. Zhao Xingqiu][] (HKPU) and [Dr. Ye Zhisheng][] (NUS). My research
 interest is applied statistics. I am working on research in Accelerated Life Testing. I would like to pursue Ph.D. in the
 future.
 
@@ -20,7 +22,7 @@ programming languages. I also decided to pick up badminton.
   [Department of Applied Mathematics]: http://www.polyu.edu.hk/~ama/index.php
   [The Hong Kong Polytechnic University]: http://www.polyu.edu.hk/cpa/polyu/index.php
   [Dr. Zhao Xingqiu]: http://www.polyu.edu.hk/ama/staff/new/ZhaoXQ.htm
-  [Dr. Ye Zhisheng]: http://scholar.google.com/citations?user=ob5EC3IAAAAJ&hl=en
+  [Dr. Ye Zhisheng]: http://www.ise.nus.edu.sg/staff/yez/index.html
 
     
 >Everything that has a beginning, has an end.
@@ -32,6 +34,3 @@ programming languages. I also decided to pick up badminton.
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>-->
-
-
-
