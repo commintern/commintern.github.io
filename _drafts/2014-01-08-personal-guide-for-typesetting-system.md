@@ -82,6 +82,10 @@ Online resources
 * [LyX official page](http://www.lyx.org/) You can download LyX there.
 * [Documentation](http://wiki.lyx.org/LyX/Documentation) Even though the users guides are embedded in LyX, you may want to download PDF files.
 
+# Refernece
+
+## BibTeX
+
 # Presenation
 
 ## [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG)
