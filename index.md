@@ -7,8 +7,11 @@ published: true
 {% include JB/setup %}
 I am a first-year [Mphil][] student in [Department of Applied
 Mathematics][] , [The Hong Kong Polytechnic University][], under the
-supervision of [Dr. Zhao Xingqiu][] (HKPU) and [Dr. Ye Zhisheng][] (NUS). My research
-interest is applied statistics. I am working on research in Accelerated Life Testing. I would like to pursue Ph.D. in the
+supervision of [Dr. Zhao Xingqiu][] (HKPU) and [Dr. Ye Zhisheng][] (NUS). 
+
+I am visiting NUS as a research assistant this summer.
+
+My research interest is applied statistics. I am working on research in Accelerated Life Testing. I would like to pursue Ph.D. in the
 future.
 
 I am widely interested in philosophy, computing science, social sciences
