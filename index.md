@@ -24,7 +24,7 @@ programming languages. I also decided to pick up badminton.
   [Mphil]: http://en.wikipedia.org/wiki/Master_of_Philosophy
   [Department of Applied Mathematics]: http://www.polyu.edu.hk/~ama/index.php
   [The Hong Kong Polytechnic University]: http://www.polyu.edu.hk/cpa/polyu/index.php
-  [Dr. Zhao Xingqiu]: http://www.polyu.edu.hk/ama/staff/new/ZhaoXQ.htm
+  [Dr. Zhao Xingqiu]: http://www.polyu.edu.hk/ama/people/detail/32
   [Dr. Ye Zhisheng]: http://www.ise.nus.edu.sg/staff/yez/index.html
 
     
