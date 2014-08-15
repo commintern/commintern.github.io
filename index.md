@@ -5,7 +5,7 @@ published: true
 ---
 
 {% include JB/setup %}
-I am a first-year [Mphil][] student in [Department of Applied
+I am a first-year [Master of Philosophy][](MPhil) student in [Department of Applied
 Mathematics][] , [The Hong Kong Polytechnic University][], under the
 supervision of [Dr. Zhao Xingqiu][] (HKPU) and [Dr. Ye Zhisheng][] (NUS). 
 
