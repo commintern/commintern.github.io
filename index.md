@@ -6,7 +6,7 @@ published: true
 
 {% include JB/setup %}
 
-I am a first-year [MPhil][] student in [Department of Applied
+I am a first-year [Master of Philosophy][] (MPhil) student in [Department of Applied
 Mathematics][] , [The Hong Kong Polytechnic University][], under the
 supervision of [Dr. Zhao Xingqiu][] (HKPU) and [Dr. Ye Zhisheng][] (NUS). 
 
@@ -22,7 +22,7 @@ besides mathematics. <span style="color:white">Marxism,
 Currently, I am learning advanced math and statistics as well as
 programming languages. I also decided to pick up badminton.
 
-  [MPhil]: http://en.wikipedia.org/wiki/Master_of_Philosophy
+  [Master of Philosophy]: http://en.wikipedia.org/wiki/Master_of_Philosophy
   [Department of Applied Mathematics]: http://www.polyu.edu.hk/~ama/index.php
   [The Hong Kong Polytechnic University]: http://www.polyu.edu.hk/cpa/polyu/index.php
   [Dr. Zhao Xingqiu]: http://www.polyu.edu.hk/ama/people/detail/32
@@ -32,3 +32,4 @@ programming languages. I also decided to pick up badminton.
 >Everything that has a beginning, has an end.
  
 >一切有始有终。
+
