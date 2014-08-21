@@ -3,6 +3,7 @@ layout: page
 title: Resume 
 header: Resume
 group: navigation
+permalink: /resume/index.html
 ---
 {% include JB/setup %}
 
@@ -20,6 +21,11 @@ Download the full version from [here](http://sdrv.ms/142YsZJ).
      Department of Applied Mathematics,  
      The Hong Kong Polytechnic University
 
+#RESEARCH EXPERIENCE
+* **Research Engineer**, *2014/06-2014/08*  
+     Department of Industry and System Engineering, 
+	 National University of Singapore, Singapore 
+	
 #AWARDS and HONOURS
 * **Dean's Honored List**, Outstanding academic performance (top 5%) *2011/2012*
 * **The Hong Kong Polytechnic University Scholarship** *2011/2012,
@@ -29,7 +35,7 @@ Download the full version from [here](http://sdrv.ms/142YsZJ).
 # COMPUTER SKILLS #
 * Programming Languages: Pascal, PHP, Java, VBA
 * Statistic Softwares: R, SPSS, SAS, Minitab
-* Others: LATEX, Microsoft Office 
+* Others: LaTeX, Microsoft Office 
 
 
 # EXTRA-CURRICULAR  ACTIVITIES

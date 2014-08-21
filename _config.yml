@@ -1,35 +1,72 @@
-# This is the default format. 
-# For more see: http://jekyllrb.com/docs/permalinks/
+title: Sun Dayu
+#tagline:          A short tagline
+#description:      Describe your website.
+#Comment out url when working locally to resolve base urls correctly
+#url: http://sundayu.me
+
+# Owner/author information
+owner:
+  name:           Sun Dayu
+  avatar:         sundayu.jpg
+#  bio:
+  email:          dayu.sun@hotmail.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter:
+  facebook:
+  github: commintern
+  linkedin:
+  instagram:
+  lastfm:
+  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_verify: "JW0gdx05xcJSQe6saaq67u_U1vgdfuh8OxrjS-fEuyQ"
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About Me
+    url: /
+  - title: Resume
+    url: /resume/
+  - title: Blog
+    url: /blog/
+  - title: Contact
+    url: /contact/
+  - title: Misc
+    url: /misc/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Chongqing
+future: true
+pygments: true
+#markdown: kramdown
+markdown: redcarpet
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:year/:month/:day/:title 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: false
-markdown: kramdown
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
 
-# Themes are encouraged to use these universal variables 
-# so be sure to set them if your theme uses them.
-#
-title : Sun Dayu
-tagline: 此心光明
-author :
-  name : Sun Dayu
-  email : dayu.sun@hotmail.com
-  github : commintern
-  twitter : dayusun
-  
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
 
-# The production_url is only used when full-domain names are needed
-# such as sitemap.txt 
-# Most places will/should use BASE_PATH to make the urls
-#
-# If you have set a CNAME (pages.github.com) set your custom domain here.
-# Else if you are pushing to username.github.io, replace with your username.
-# Finally if you are pushing to a GitHub project page, include the project name at the end.
-#
-production_url : http://sundayu.me
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# All Jekyll-Bootstrap specific configurations are namespaced into this hash
-#
 JB :
   version : 0.3.0
 
@@ -128,4 +165,5 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-  
+
+
