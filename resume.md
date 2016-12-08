@@ -15,6 +15,7 @@ Download the full version from [here](http://sdrv.ms/142YsZJ).
 
 
 #EDUCATION
+
 * **Master of Philosophy**, in Applied Statistics *2013- present*
 
 * **Bachelor of Science**, in Investment Science (First Class Honour),  *2009-2013*  
@@ -22,6 +23,7 @@ Download the full version from [here](http://sdrv.ms/142YsZJ).
      The Hong Kong Polytechnic University
 
 #RESEARCH EXPERIENCE
+
 * **Research Engineer**, *2014/06-2014/08*  
      Department of Industry and System Engineering, 
 	 National University of Singapore, Singapore 
