@@ -4,7 +4,7 @@ title: Love
 header: Love
 group: navigation
 permalink: /love/index.html
-start_date: 2015-03-02 00:00:00
+start_date: 2016-10-15
 ---
 # Yuanyuan is my girlfriend. 
 {% comment %} convert our dates to Number of seconds 
@@ -12,7 +12,7 @@ start_date: 2015-03-02 00:00:00
 {% assign nowTimestamp = 'now' | date: '%s' %}
 
 {% comment %} difference in seconds {% endcomment %}
-{% assign diffSeconds = nowTimestamp | minus: start_date %}
+{% assign diffSeconds = nowTimestamp | minus: 1476525600 %}
 
 {% comment %} difference in days {% endcomment %}
 {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}
@@ -20,4 +20,7 @@ start_date: 2015-03-02 00:00:00
 We have been in a romantic relationship for {{ diffDays }} days. 
 We love each other so much.
 I never thought that I could find a perfect girlfriend like her.
+I am very happy every day just becasue I can see her anytime I want.
+We both hope that out relationship lasts forever.
+
 
