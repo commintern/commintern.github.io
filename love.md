@@ -25,7 +25,7 @@ I never thought that I could find a perfect girlfriend like her.
 
 I am very happy every day just becasue I can see her anytime I want.
 
-She is lovely, vivid and energetic.
+She is lovely, vivaciously and energetic.
 
 We both believe that out relationship can last forever.
 
