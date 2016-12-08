@@ -14,7 +14,7 @@ Download the full version from [here](http://sdrv.ms/142YsZJ).
 
 
 
-#EDUCATION
+# EDUCATION
 
 * **Master of Philosophy**, in Applied Statistics *2013- present*
 
@@ -22,19 +22,20 @@ Download the full version from [here](http://sdrv.ms/142YsZJ).
      Department of Applied Mathematics,  
      The Hong Kong Polytechnic University
 
-#RESEARCH EXPERIENCE
+# RESEARCH EXPERIENCE
 
 * **Research Engineer**, *2014/06-2014/08*  
      Department of Industry and System Engineering, 
 	 National University of Singapore, Singapore 
 	
-#AWARDS and HONOURS
+# AWARDS and HONOURS
+
 * **Dean's Honored List**, Outstanding academic performance (top 5%) *2011/2012*
 * **The Hong Kong Polytechnic University Scholarship** *2011/2012,
 2012/2013*
 * **Scholarship in Economics**, sponsored by Dr. Lam Pun-lee *2012/2013*
 
-# COMPUTER SKILLS #
+# COMPUTER SKILLS 
 * Programming Languages: Pascal, PHP, Java, VBA
 * Statistic Softwares: R, SPSS, SAS, Minitab
 * Others: LaTeX, Microsoft Office 
