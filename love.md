@@ -18,9 +18,14 @@ start_date: 2016-10-15
 {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}
 
 We have been in a romantic relationship for {{ diffDays }} days. 
-We love each other so much.
-I never thought that I could find a perfect girlfriend like her.
-I am very happy every day just becasue I can see her anytime I want.
-We both hope that out relationship lasts forever.
 
+We love each other so much.
+
+I never thought that I could find a perfect girlfriend like her.
+
+I am very happy every day just becasue I can see her anytime I want.
+
+She is lovely, vivid and energetic.
+
+We both believe that out relationship can last forever.
 
