@@ -23,7 +23,7 @@ We love each other so much.
 
 I never thought that I could find a perfect girlfriend like her.
 
-I am very happy every day just becasue I can see her anytime I want.
+I am very happy everyday just becasue I can see her anytime I want.
 
 She is lovely, vivaciously and energetic.
 
