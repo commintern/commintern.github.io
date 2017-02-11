@@ -48,7 +48,7 @@ var start = new Date('10/15/2016 10:1 PM');
     timer = setInterval(showRemaining, 1000);
 </script>
 
-We have been in a romantic relationship for <div id="countdown"></div>
+<p> We have been in a romantic relationship for <\p> <div id="countdown"></div>
 
 We love each other so much.
 
