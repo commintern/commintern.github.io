@@ -17,7 +17,7 @@ start_date: 2016-10-15
 {% comment %} difference in days {% endcomment %}
 {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}
 
-We have been in a romantic relationship for <script>
+<script>
 var start = new Date('10/15/2016 10:1 PM');
 
     var _second = 1000;
@@ -47,7 +47,8 @@ var start = new Date('10/15/2016 10:1 PM');
 
     timer = setInterval(showRemaining, 1000);
 </script>
-<div id="countdown"></div>. 
+
+We have been in a romantic relationship for <div id="countdown"></div>. 
 
 We love each other so much.
 
