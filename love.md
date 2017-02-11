@@ -30,7 +30,7 @@ She is lovely, vivaciously and energetic.
 We both believe that out relationship can last forever.
 
 <script>
-var end = new Date('02/19/2012 10:1 AM');
+var start = new Date('10/15/2016 10:1 PM');
 
     var _second = 1000;
     var _minute = _second * 60;
@@ -40,7 +40,7 @@ var end = new Date('02/19/2012 10:1 AM');
 
     function showRemaining() {
         var now = new Date();
-        var distance = end - now;
+        var distance =  now - start;
         if (distance < 0) {
 
             clearInterval(timer);
@@ -54,9 +54,7 @@ var end = new Date('02/19/2012 10:1 AM');
         var seconds = Math.floor((distance % _minute) / _second);
 
         document.getElementById('countdown').innerHTML = days + 'days ';
-        document.getElementById('countdown').innerHTML += hours + 'hrs ';
-        document.getElementById('countdown').innerHTML += minutes + 'mins ';
-        document.getElementById('countdown').innerHTML += seconds + 'secs';
+
     }
 
     timer = setInterval(showRemaining, 1000);
