@@ -17,19 +17,7 @@ start_date: 2016-10-15
 {% comment %} difference in days {% endcomment %}
 {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}
 
-We have been in a romantic relationship for {{ diffDays }} days. 
-
-We love each other so much.
-
-I never thought that I could find a perfect girlfriend like her.
-
-I am very happy everyday just becasue I can see her anytime I want.
-
-She is lovely, vivaciously and energetic.
-
-We both believe that out relationship can last forever.
-
-<script>
+We have been in a romantic relationship for <script>
 var start = new Date('10/15/2016 10:1 PM');
 
     var _second = 1000;
@@ -53,10 +41,22 @@ var start = new Date('10/15/2016 10:1 PM');
         var minutes = Math.floor((distance % _hour) / _minute);
         var seconds = Math.floor((distance % _minute) / _second);
 
-        document.getElementById('countdown').innerHTML = days + 'days ';
+        document.getElementById('countdown').innerHTML = days + ' days ';
 
     }
 
     timer = setInterval(showRemaining, 1000);
 </script>
-<div id="countdown"></div>
+<div id="countdown"></div>. 
+
+We love each other so much.
+
+I never thought that I could find a perfect girlfriend like her.
+
+I am very happy everyday just becasue I can see her anytime I want.
+
+She is lovely, vivaciously and energetic.
+
+We both believe that out relationship can last forever.
+
+
