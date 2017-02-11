@@ -41,16 +41,14 @@ var start = new Date('10/15/2016 10:1 PM');
         var minutes = Math.floor((distance % _hour) / _minute);
         var seconds = Math.floor((distance % _minute) / _second);
 
-        document.getElementById('countdown').innerHTML = days + ' days ';
+        document.getElementById('countdown').innerHTML = days + ' days.';
 
     }
 
     timer = setInterval(showRemaining, 1000);
 </script>
 
-We have been in a romantic relationship for 
-<div id="countdown"></div>
-. 
+We have been in a romantic relationship for <div id="countdown"></div>
 
 We love each other so much.
 
