@@ -6,9 +6,7 @@ published: true
 
 {% include JB/setup %}
 
-[comment]: # (I am a first-year [Master of Philosophy][] (MPhil) student in [Department of Applied
-Mathematics][] , [The Hong Kong Polytechnic University][], under the
-supervision of [Dr. Zhao Xingqiu][] (HKPU) and [Dr. Ye Zhisheng][] (NUS). )\
+[comment]: # (I am a first-year [Master of Philosophy][] (MPhil) student in [Department of Applied Mathematics][] , [The Hong Kong polytechnic University][], under the supervision of [Dr. Zhao Xingqiu][] (HKPU) and [Dr. Ye Zhisheng][] (NUS). )
 
 I am a second-year Ph.D. candidate in statistics at University of Missouri-Columbia, supervised by Dr. Jianguo (Tony) Sun.
 
