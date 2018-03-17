@@ -6,9 +6,11 @@ published: true
 
 {% include JB/setup %}
 
-I am a first-year [Master of Philosophy][] (MPhil) student in [Department of Applied
+[comment]: # (I am a first-year [Master of Philosophy][] (MPhil) student in [Department of Applied
 Mathematics][] , [The Hong Kong Polytechnic University][], under the
-supervision of [Dr. Zhao Xingqiu][] (HKPU) and [Dr. Ye Zhisheng][] (NUS). 
+supervision of [Dr. Zhao Xingqiu][] (HKPU) and [Dr. Ye Zhisheng][] (NUS). )\
+
+I am a second-year Ph.D. candidate in statistics at University of Missouri-Columbia, supervised by Dr. Jianguo (Tony) Sun.
 
 I am visiting to ISE department in NUS as a research assistant this summer.
 
